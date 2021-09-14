@@ -1,5 +1,5 @@
 ---
-title: NextJS Prisma
+title: NextJS Prism
 description: A NextJS app using Prisma with a PostgreSQL database
 tags:
   - next

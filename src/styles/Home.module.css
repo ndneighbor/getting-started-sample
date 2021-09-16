@@ -91,6 +91,17 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: #e9e9e9;
+  box-shadow: 20px;
+  margin-top: 12px;
+}
+
+.todo:hover {
+  background-color: #feffff;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  transition: 0.2s;
 }
 
 .label {

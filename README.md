@@ -17,6 +17,7 @@ This example is a [NextJS](https://nextjs.org/) todo app that uses
 
 ## ✨ Features
 
+- Redeploys
 - Prisma
 - NextJS
 - Postgres
